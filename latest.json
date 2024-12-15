@@ -1,7 +1,6 @@
 {
   "version": "0.5.0",
   "notes": "See the assets to download this version and install.",
-  "pub_date": "2024-12-15",
   "platforms": {
     "windows-x86_64": {
       "url": "https://raw.githubusercontent.com/crimzonware/LAGSTER/main/LAGSTER_0.5.0_x64_en-US.msi",
