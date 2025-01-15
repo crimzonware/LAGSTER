@@ -2,9 +2,9 @@
   "notes": "See the assets to download this version and install.",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTM05mNG9GbHpleGlmb0dxVzJYcXZxQllhbExVa3RWTWFsQlUvQmVJVGFZNWFybkFDTUdjU0NzQ2crdlFIanU2VlowL3QwMGVyUzEzMjBYU2xaUlF1cjRIMUFNL2lsNEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM2ODI5NzcwCWZpbGU6TEFHU1RFUl8wLjEyLjRfeDY0X2VuLVVTLm1zaQpoR1Q0a256UTVWR0cwOHFjZ1EvSnZSdjVkYlFuZXpGS2ZNamNHWWp6YVFpdEFPcFI5L3M0bFd0OW5LdzhDMWI1UU5GQmdqSkt3ZFVTS2FGMFI2Y1pEdz09Cg==",
-      "url": "https://raw.githubusercontent.com/crimzonware/LAGSTER/main/LAGSTER_0.12.4_x64_en-US.msi"
+      "url": "https://raw.githubusercontent.com/crimzonware/LAGSTER/main/LAGSTER_0.12.5_x64_en-US.msi",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTM05mNG9GbHpleGhXOEY3K0YrMGkyTnowZ25GTVl3c2p3UVBNZkJ4UWRGV1BjcGd6M0VhdG1tamhjQ3dxUWVtMFJZcjhvcFU1OC80Wk9xSnZTT1FsMVZJNlBXSHNrcWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM2OTQ0ODYwCWZpbGU6TEFHU1RFUl8wLjEyLjVfeDY0X2VuLVVTLm1zaQpXcHhsS25NeDUxckpuUDhzYklrbWNyb1lCd2tORXEwL0xKUjNKR2xNOEg1djljWnNwdWNSdzVSd25maE5vQ0FXR3NHQTNFV2xpemFIUGszaW1RVTVBUT09Cg=="
     }
   },
-  "version": "0.12.4"
+  "version": "0.12.5"
 }
