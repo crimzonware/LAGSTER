@@ -1,10 +1,11 @@
 {
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTM05mNG9GbHpleG53alVzOFpOVVpSdEdYVnpBK1Z4RTVCMFZFdEdnNXoyWU1rbm1TU0J4aXJ2Y2lUbWpRT1NPTXB1TTl5SHVXeW9nUkZJekU5d0Fkd3BOd3ljTElMVUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NzYzODkzCWZpbGU6TGFnc3Rlcl8wLjIyLjVfeDY0LXNldHVwLmV4ZQpFWm1LTzlDTld1K1hIb005K0dDdFpTM3FtUXZUWDYwNDRySUw1SksvYVhVM1hoK3NQUFp4M2Fwa1FYL1dZZGhPUXlsRHhaVy9QNU5PdzRvMXFPcjlBZz09Cg==",
-                                             "url":  "https://raw.githubusercontent.com/crimzonware/LAGSTER/main/Lagster_0.22.5_x64-setup.exe"
-                                         }
-                  },
-    "version":  "0.22.5",
-    "notes":  "See the assets to download this version and install."
+  "version": "0.23.1",
+  "notes": "Lagster v2.",
+  "pub_date": "2026-10-23T07:48:42Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTM05mNG9GbHpleHFyc3NxSXdQY1JOelF0UmpJU3VmMXZWLzZCeUpCenFOSmFJR2dWVkZNd2lwSkNHUDJvM0JxbVFla0hHNnVUVUM0NUV3WHpia0M3WnFxSmt3Vm9TSmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzQxNzIyCWZpbGU6bGFnc3Rlci12Ml8wLjIzLjFfeDY0LXNldHVwLmV4ZQp2R0hFNitOeFJTVUJvM1gyYXl2WDFGL2VjUDNKYWQ4WmtYOGFVOFQ0aGVralhNYXFMYzNXNm0rZVZ3bFQ5MkNqd09pdWpCd25JbHdmSFdxMEQ3Y0ZCZz09Cg==",
+      "url": "https://cdn.lagster.cloud/lagster-v2_0.23.1_x64-setup.exe"
+    }
+  }
 }
